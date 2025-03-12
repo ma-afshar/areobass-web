@@ -8,7 +8,7 @@ A responsive landing page for multiple wireless headphones, built with **HTML** 
 
 ## How to Use
 🔹 Live Preview  
-- You can view the live website [here](https://your-live-site-link.com)
+&nbsp;&nbsp;&nbsp;&nbsp;You can view the live website [here](https://your-live-site-link.com)
 
 🔹 Open Locally
 1. **Download the ZIP file** or run the following command:  
