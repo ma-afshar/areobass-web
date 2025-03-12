@@ -7,7 +7,6 @@ A responsive landing page for multiple wireless headphones, built with **HTML** 
 - Smooth animations
 
 ## How to Use
-<pre>  
 🔹 Live Preview
   
         You can view the live website [here](https://your-live-site-link.com)
