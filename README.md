@@ -7,8 +7,8 @@ A responsive landing page for multiple wireless headphones, built with **HTML** 
 - Smooth animations
 
 ## How to Use  
-🔹 Live Preview
-        You can view the live website [here](https://ma-afshar.github.io/areobass-web/)
+🔹 Live Preview        
+You can view the live website [here](https://ma-afshar.github.io/areobass-web/)
 
 🔹 Open Locally
 
